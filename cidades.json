@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Londrina",
+        "populacao": 123,
+        "tamanho": "Grande"
+    },
+    {
+        "nome": "Curitiba",
+        "populacao": 1234,
+        "tamanho": "Grande"
+    },
+    {
+        "nome": "Maringá",
+        "populacao": 1232,
+        "tamanho": "Grande"
+    },
+    {
+        "nome": "Dourados",
+        "populacao": 12,
+        "tamanho": "Grande"
+    }
+]
